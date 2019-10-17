@@ -183,7 +183,6 @@
           color #fff
           padding-bottom 8px
           padding-top 10px
-          height 50px
           .account-name
             font-size 28px
             margin-bottom 20px
@@ -196,7 +195,7 @@
             flex-direction column
             justify-content space-around
             div
-              width 120px
+              width 130px
               height 20px
               background #80808087
               border-radius 5px
@@ -220,7 +219,6 @@
           .iconfont
             font-size 20px
 
-      
       .account-info-extra
         margin-top 10px
         background #fff
