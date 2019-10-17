@@ -12,7 +12,7 @@ npm run serve
 npm run build
 
 # please ensure the server side has started 
-# Link to frontend-pm server project:
+# Link to frontend-pm server project: https://github.com/pan0421/frontend-pm-server
 
 # please view using chrome emulated view as this project is mobile-first
 ```
