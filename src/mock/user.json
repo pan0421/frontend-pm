@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "11111",
+    "username": "user1",
+    "name": "User1",
+    "password": "11111",
+    "birthday": "19900101",
+    "token": "21111",
+    "avatar": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+  },
+  {
+    "_id": "11112",
+    "username": "user2@gmail.com",
+    "name": "User2",
+    "password": "22222",
+    "birthday": "19900101",
+    "token": "21112",
+    "avatar": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+  },
+  {
+    "_id": "11113",
+    "username": "user3",
+    "name": "User3",
+    "password": "33333",
+    "birthday": "19900101",
+    "token": "21113",
+    "avatar": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+  }
+]
